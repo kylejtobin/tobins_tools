@@ -131,15 +131,15 @@ In the "Popular Machine Learning Algorithms" section, we will explore a variety 
 
 This section covers the following machine learning algorithms:
 
-Linear Regression: A simple yet powerful algorithm used for predicting numerical values based on the relationship between input features and output labels.
+**Linear Regression:** A simple yet powerful algorithm used for predicting numerical values based on the relationship between input features and output labels.
 
-Random Forests: An ensemble method that combines multiple decision trees to create a robust classifier or regressor with improved generalization and accuracy.
+**Random Forests:** An ensemble method that combines multiple decision trees to create a robust classifier or regressor with improved generalization and accuracy.
 
-Support Vector Machines (SVM): A versatile algorithm that can be used for both classification and regression tasks by finding the optimal hyperplane that separates data points belonging to different categories.
+**Support Vector Machines (SVM):** A versatile algorithm that can be used for both classification and regression tasks by finding the optimal hyperplane that separates data points belonging to different categories.
 
-K-Nearest Neighbors (KNN): A non-parametric, lazy learning algorithm that can be used for classification and regression tasks, based on the principle that data points with similar features are likely to share the same output label.
+**K-Nearest Neighbors (KNN):** A non-parametric, lazy learning algorithm that can be used for classification and regression tasks, based on the principle that data points with similar features are likely to share the same output label.
 
-K-Means Clustering: An unsupervised learning algorithm that groups data points into clusters based on their similarity, with the aim of minimizing the within-cluster variance.
+**K-Means Clustering:** An unsupervised learning algorithm that groups data points into clusters based on their similarity, with the aim of minimizing the within-cluster variance.
 
 By the end of this section, you will have a solid understanding of these popular machine learning algorithms, their underlying principles, and how they can be applied to various real-world problems. This foundational knowledge will serve as a stepping stone for learning more advanced techniques and algorithms in the future.
 
@@ -399,17 +399,17 @@ In the "Natural Language Processing Techniques" section, we explore the methods 
 
 This section covers the following topics:
 
-1. Tokenization: The process of breaking down text into individual words or tokens, which is a fundamental step in preparing text data for NLP tasks.
+1. **Tokenization:** The process of breaking down text into individual words or tokens, which is a fundamental step in preparing text data for NLP tasks.
 
-2. Stemming and Lemmatization: Techniques used to reduce words to their base or canonical forms, which helps improve the efficiency and accuracy of NLP models.
+2. **Stemming and Lemmatization:** Techniques used to reduce words to their base or canonical forms, which helps improve the efficiency and accuracy of NLP models.
 
-3. Named Entity Recognition (NER): The task of identifying and classifying entities, such as names, dates, and locations, within a given text.
+3. **Named Entity Recognition (NER):** The task of identifying and classifying entities, such as names, dates, and locations, within a given text.
 
-4. Sentiment Analysis: The process of determining the sentiment or emotion expressed in a piece of text, which has applications in social media monitoring, customer feedback analysis, and more.
+4. **Sentiment Analysis:** The process of determining the sentiment or emotion expressed in a piece of text, which has applications in social media monitoring, customer feedback analysis, and more.
 
-5. Text Generation: The task of generating human-readable text based on a given input, often leveraging advanced machine learning models like GPT.
+5. **Text Generation:** The task of generating human-readable text based on a given input, often leveraging advanced machine learning models like GPT.
 
-6. Machine Translation: The process of automatically translating text from one language to another, which is a core NLP task with numerous practical applications.
+6. **Machine Translation:** The process of automatically translating text from one language to another, which is a core NLP task with numerous practical applications.
 
 By the end of this section, you will have a solid understanding of various NLP techniques and their applications, which will enable you to implement NLP tasks in your projects and improve your chatbot, text analysis, or language generation capabilities.
 
