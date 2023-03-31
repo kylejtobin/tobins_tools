@@ -7,6 +7,10 @@ All resources in Tobin's Tools are licensed under the Educational Community Lice
 
 Please note that Tobin's Tools is a work in progress, and I'll be adding new materials over time. If you have suggestions or feedback, please feel free to create an issue or pull request.
 
+## Resources
+
+[Machine Learning 101](/docs/ai-ml/machine-learning-101.md)
+
 ## License
 
 This project is licensed under the Educational Community License v2.0 (ECL-2.0).
