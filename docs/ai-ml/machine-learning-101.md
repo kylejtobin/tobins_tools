@@ -29,8 +29,8 @@ By the end of Machine Learning 101, you will have gained valuable insights into 
   - [Table of Contents](#table-of-contents)
   - [1.0 - Introduction to Machine Learning](#10---introduction-to-machine-learning)
     - [1.1 - Supervised Learning](#11---supervised-learning)
-    - [Unsupervised Learning](#unsupervised-learning)
-    - [Reinforcement Learning](#reinforcement-learning)
+    - [1.2 - Unsupervised Learning](#12---unsupervised-learning)
+    - [1.3 - Reinforcement Learning](#13---reinforcement-learning)
   - [2.0 - Popular Machine Learning Algorithms](#20---popular-machine-learning-algorithms)
     - [2.1 - Linear Regression](#21---linear-regression)
     - [2.2 - Unsupervised Learning](#22---unsupervised-learning)
@@ -77,7 +77,7 @@ Once you have a satisfactory model, you can use it to predict output labels for 
 
 In summary, supervised learning is a type of machine learning where an algorithm learns to predict output labels based on input-output pairs from a training dataset. It's widely used in various applications, such as spam detection, image recognition, and natural language processing.
 
-### Unsupervised Learning
+### 1.2 - Unsupervised Learning
 
 Unsupervised learning is a type of machine learning where an algorithm learns patterns and structures within input data without the guidance of output labels. Unlike supervised learning, there is no "supervisor" providing correct answers. Instead, unsupervised learning algorithms aim to discover hidden structures, patterns, or relationships within the data itself. Common applications of unsupervised learning include clustering, dimensionality reduction, and anomaly detection.
 
@@ -94,7 +94,7 @@ Once you have a satisfactory model, you can use it to analyze new, previously un
 
 In summary, unsupervised learning is a type of machine learning where an algorithm learns to discover hidden patterns and structures within input data without relying on output labels. It's widely used in various applications, such as customer segmentation, anomaly detection, and data compression.
 
-### Reinforcement Learning
+### 1.3 - Reinforcement Learning
 
 Reinforcement learning is a type of machine learning in which an agent learns to make decisions by interacting with its environment. The agent takes actions based on its current state and receives feedback in the form of rewards or penalties. The goal is to learn a policy (a mapping of states to actions) that maximizes the cumulative reward over time. Reinforcement learning is particularly useful in situations where the optimal solution cannot be determined analytically or through supervised learning, such as game playing, robotics, and autonomous vehicles.
 
