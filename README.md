@@ -9,7 +9,15 @@ Please note that Tobin's Tools is a work in progress, and I'll be adding new mat
 
 ## Resources
 
-### [Machine Learning 101](docs/ai-ml/chatbot-machine-learning-101.md)
+### [Chatbot LLM Concepts](/docs/ai-ml/llm-concepts.md)
+
+<p align="center">
+  <img src="/img/llm-chatbot.png">
+</p>
+
+This content provides an introduction to the key concepts and technologies behind LLM powered chatbot development, including the Transformer algorithm, Large Language Models, Natural Language Processing, Natural Language Understanding, and Natural Language Generation.
+
+### [Chatbot Machine Learning 101](docs/ai-ml/chatbot-machine-learning-101.md)
 
 <p align="center">
   <img src="/img/chatbot-machine-learning-101.png">
