@@ -1,5 +1,9 @@
 # Chatbot Machine Learning 101: A Comprehensive Guide for IT Engineers
 
+<p align="center">
+  <img width="460" height="300" src="/img/chatbot-machine-learning-101.png">
+</p>
+
 ## Overview
 
 Welcome to Machine Learning 101, a comprehensive guide specifically tailored for IT engineers and cloud architects who are new to the world of data science and machine learning. This resource is designed to provide a solid foundation in machine learning concepts, techniques, and algorithms, without delving into the complexities of advanced mathematics and statistics.
