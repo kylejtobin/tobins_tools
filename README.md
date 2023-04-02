@@ -9,7 +9,7 @@ Please note that Tobin's Tools is a work in progress, and I'll be adding new mat
 
 ## Resources
 
-[Machine Learning 101](/docs/ai-ml/machine-learning-101.md)
+[Chatbot Machine Learning 101](/docs/ai-ml/chatbot-machine-learning-101.md)
 
 ## License
 
