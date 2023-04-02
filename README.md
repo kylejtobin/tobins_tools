@@ -9,7 +9,7 @@ Please note that Tobin's Tools is a work in progress, and I'll be adding new mat
 
 ## Resources
 
-### [Machine Learning 101](/docs/ai-ml/chatbot-machine-learning-101.md)
+### [Machine Learning 101](docs/ai-ml/chatbot-machine-learning-101.md)
 
 Machine Learning 101 is a comprehensive guide for IT engineers and cloud architects new to data science and machine learning. The guide covers fundamental concepts, techniques, and algorithms, with sections on introduction to machine learning, popular algorithms, neural networks and deep learning, natural language processing, model evaluation and validation, feature engineering and selection, and advanced topics. By the end, readers will have a solid foundation in machine learning and be prepared to explore more advanced topics and apply techniques to real-world problems.Machine Learning 101 is a comprehensive guide for IT engineers and cloud architects new to data science and machine learning. The guide covers fundamental concepts, techniques, and algorithms, with sections on introduction to machine learning, popular algorithms, neural networks and deep learning, natural language processing, model evaluation and validation, feature engineering and selection, and advanced topics. By the end, readers will have a solid foundation in machine learning and be prepared to explore more advanced topics and apply techniques to real-world problems.
 
