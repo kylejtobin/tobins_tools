@@ -1,7 +1,7 @@
 # Chatbot Machine Learning 101: A Comprehensive Guide for IT Engineers
 
 <p align="center">
-  <img width="460" height="300" src="/img/chatbot-machine-learning-101.png">
+  <img src="/img/chatbot-machine-learning-101.png">
 </p>
 
 ## Overview
