@@ -1,4 +1,4 @@
-# Chatbot Machine Learning 101: A Comprehensive Guide for IT Engineers
+# Chatbot Machine Learning 101: A guide for Engineers and Programmers
 
 <p align="center">
   <img src="/img/chatbot-machine-learning-101.png">
@@ -28,7 +28,7 @@ By the end of Machine Learning 101, you will have gained valuable insights into 
 
 ## Table of Contents
 
-- [Chatbot Machine Learning 101: A Comprehensive Guide for IT Engineers](#chatbot-machine-learning-101-a-comprehensive-guide-for-it-engineers)
+- [Chatbot Machine Learning 101: A guide for Engineers and Programmers](#chatbot-machine-learning-101-a-guide-for-engineers-and-programmers)
   - [Overview](#overview)
   - [Table of Contents](#table-of-contents)
   - [1.0 - Introduction to Machine Learning](#10---introduction-to-machine-learning)
