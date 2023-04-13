@@ -1,3 +1,4 @@
+# Chatbot Principles and Architecture
 - [Chatbot Principles and Architecture](#chatbot-principles-and-architecture)
   - [**1. Introduction to Transformer-Based Neural Networks**](#1-introduction-to-transformer-based-neural-networks)
     - [**Multi-Head Attention Mechanism**](#multi-head-attention-mechanism)
@@ -72,8 +73,6 @@
     - [Continuous integration and deployment (CI/CD) for chatbots](#continuous-integration-and-deployment-cicd-for-chatbots)
     - [Model versioning and rollback strategies](#model-versioning-and-rollback-strategies)
 
-
-# Chatbot Principles and Architecture
 
 ## **1. Introduction to Transformer-Based Neural Networks**
 
